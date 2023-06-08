@@ -6,4 +6,4 @@
 - include_tasks: permissions.yml
 - include_tasks: tomdashoard.yml
 - include_tasks: tomstart.yml
-- include_tasks: deploy.yml
+- include_tasks: mydeploy.yml
